@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>cross-delete.png</file>
+    </qresource>
+</RCC>
